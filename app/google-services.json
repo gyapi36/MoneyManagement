@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "434273881204",
+    "project_id": "mywallet-31b79",
+    "storage_bucket": "mywallet-31b79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434273881204:android:53d8f4619572cedf70d521",
+        "android_client_info": {
+          "package_name": "com.example.moneymanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434273881204-ri605allu1jvk956p62ar3m2uvsdosr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIXXLh5RmYrVvMOWze2aLLdvYJvPPWdeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434273881204-ri605allu1jvk956p62ar3m2uvsdosr3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
